@@ -39,7 +39,7 @@ A project where I designed an optimization model to efficiently manage a supply 
 - **Tools:** Jupyter, NumPy, Matplotlib
 - **Description:** Analyzing the best supply routes with search functions and optimizing efficiency.
 
-### 🔗 [Game Theory and Applications](https://github.com/momodiagne/game-theory)
+###  Game Theory and Applications
 Exploration of **game theory**, focusing on Nash equilibrium, strategic dilemmas, and modeling through Python algorithms.
 
 - **Languages:** Python, Latex
