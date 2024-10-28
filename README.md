@@ -15,7 +15,7 @@ A few quick facts about me:
 - 🔍 **Specialty:** Data Science
 - 💼 **Programming Languages:** Python, C
 - 🛠️ **Favorite Tools:** Jupyter Notebook, SQL, LaTeX, Google Colab
-- 🌱 **Currently Learning:** Machine Learning and Data Mining with Scikit-learn, C++, SQL/MySQL, Microsoft Certified: Power BI Data Analyst Associate
+- 🌱 **Currently Learning:** Machine Learning and Data Mining with Scikit-learn, C++, SQL/MySQL, Microsoft Certified: Power BI Data Analyst Associate, Seaborn
 - 🚀 **Next Goal:** Learn R for statistics
 
 ---
