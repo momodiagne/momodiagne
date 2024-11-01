@@ -60,7 +60,7 @@ Mohammed VI Polytechnic University, Ben Guerir, Morocco (2022 - 2025)
 I am always open to discussions, collaborations, and new opportunities. Feel free to reach out:
 
 - 📧 [Email](mailto:mamadou.ndiagne@um6p.ma)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mamadou-ndiagne-a7a44932a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mamadou-ndiagne)
 - 🐱‍💻 [GitHub](https://github.com/momodiagne)
 
 ---
