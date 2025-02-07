@@ -31,16 +31,30 @@ A few quick facts about me:
 
 ---
 
-## 💼 Experiences and Projects 
+## 💼 Projects 
 ### 🔗 [Real Estate Price Prediction](https://github.com/momodiagne/Machine-Learning/blob/main/Pr%C3%A9dictions_des_prix_de_l_immobilier.ipynb)
 
-**Description**
+**Description**:
 This project aims to predict real estate prices based on various parameters such as crime rate, land size, and other factors influencing property values. It includes exploratory data analysis and the implementation of multiple machine learning algorithms to improve prediction accuracy.
 
 - **Languages**: Python
 - **Libraries**: pandas, NumPy, Matplotlib, Seaborn, missingno, Scikit-Learn
 - **Tools**: Google Colab
 - **Models Used**: Random Forest
+
+### 🔗 [Loan Prediction using KNN](https://github.com/momodiagne/Machine-Learning/blob/main/KNN_loan_prediction.ipynb)
+
+**Description**:
+This project automates the real-time loan approval process by predicting whether a loan will be granted based on applicant data. It involves a classification problem where the target variable indicates loan approval status (Yes/No).
+- **Languages**: Python
+- **Libraries**: pandas, NumPy, Scikit-Learn, Matplotlib
+- **Tools**: Jupyter Notebook
+
+**Approach**
+- Data preprocessing and feature engineering
+- Implementation of K-Nearest Neighbors (KNN) algorithm
+- Model evaluation using accuracy metrics
+- Visualization of predictions and decision boundaries
 
 ### 🔗 [Optimal Route Management in a Supply Chain](https://github.com/momodiagne/Supply-Chain-Problem)
 A project where I designed an optimization model to efficiently manage a supply chain by creating high-performance search algorithms.
