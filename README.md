@@ -32,7 +32,7 @@ A few quick facts about me:
 ---
 
 ## 💼 Experiences and Projects 
-# [Real Estate Price Prediction]([https://github.com/momodiagne/Machine](https://github.com/momodiagne/Machine-Learning/blob/main/Pr%C3%A9dictions_des_prix_de_l_immobilier.ipynb))
+### 🔗 [Real Estate Price Prediction](https://github.com/momodiagne/Machine-Learning/blob/main/Pr%C3%A9dictions_des_prix_de_l_immobilier.ipynb)
 
 **Description**
 This project aims to predict real estate prices based on various parameters such as crime rate, land size, and other factors influencing property values. It includes exploratory data analysis and the implementation of multiple machine learning algorithms to improve prediction accuracy.
