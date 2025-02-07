@@ -31,13 +31,22 @@ A few quick facts about me:
 
 ---
 
-## 💼 Experiences and Projects
+## 💼 Experiences and Projects 
+# [Real Estate Price Prediction]([https://github.com/momodiagne/Machine](https://github.com/momodiagne/Machine-Learning/blob/main/Pr%C3%A9dictions_des_prix_de_l_immobilier.ipynb))
+
+**Description**
+This project aims to predict real estate prices based on various parameters such as crime rate, land size, and other factors influencing property values. It includes exploratory data analysis and the implementation of multiple machine learning algorithms to improve prediction accuracy.
+
+- **Languages**: Python
+- **Libraries**: pandas, NumPy, Matplotlib, Seaborn, missingno, Scikit-Learn
+- **Tools**: Google Colab
+- **Models Used**: Random Forest
 
 ### 🔗 [Optimal Route Management in a Supply Chain](https://github.com/momodiagne/Supply-Chain-Problem)
 A project where I designed an optimization model to efficiently manage a supply chain by creating high-performance search algorithms.
 
 - **Languages:** Python
-- **Tools:** Jupyter, NumPy, Matplotlib
+- **Tools:** Jupyter
 - **Description:** Analyzing the best supply routes with search functions and optimizing efficiency.
 
 ###  Game Theory and Applications
