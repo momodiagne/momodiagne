@@ -16,7 +16,7 @@ A few quick facts about me:
 - 💼 **Programming Languages:** Python, C
 - 🛠️ **Favorite Tools:** Jupyter Notebook, SQL, LaTeX, Google Colab
 - 🌱 **Currently Learning:** Machine Learning and Data Mining, Scikit-learn, C++, SQL/MySQL, Seaborn
-- 🚀 **Next Goal:**  Microsoft Certified: Power BI Data Analyst Associate
+- 🚀 **Next Goal:**  Google Data Analytics Professional Certificate
 
 ---
 
@@ -74,16 +74,18 @@ Exploration of **game theory**, focusing on Nash equilibrium, strategic dilemmas
 
 ## 🎓 Education
 
-🎓 **Bachelor's in Data Science and Modeling**  
+**Bachelor's in Data Science and Modeling**  
 Mohammed VI Polytechnic University, Ben Guerir, Morocco (2022 - 2025)
 
+**Master’s in Data Science and Artificial Intelligence**
+Aix-Marseille University, Marseille, France (2025 - 2027)
 ---
 
 ## 📫 Contact Me
 
 I am always open to discussions, collaborations, and new opportunities. Feel free to reach out:
 
-- 📧 [Email](mailto:mamadou.ndiagne@um6p.ma)
+- 📧 [Email](mailto:mamadou.ndiagne@etu.univ-amu.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamadou-ndiagne)
 - 🐱‍💻 [GitHub](https://github.com/momodiagne)
 
