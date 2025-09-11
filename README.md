@@ -78,6 +78,7 @@ Exploration of **game theory**, focusing on Nash equilibrium, strategic dilemmas
 Mohammed VI Polytechnic University, Ben Guerir, Morocco (2022 - 2025)
 
 **Master's in Data Science**
+
 Aix-Marseille University, Marseille, France (2025 - 2027)
 
 ---
