@@ -15,8 +15,9 @@ A few quick facts about me:
 - 🔍 **Specialty:** Data Science
 - 💼 **Programming Languages:** Python, C
 - 🛠️ **Favorite Tools:** Jupyter Notebook, SQL, LaTeX, Google Colab
+- 🏅 **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/3ece2575483c15c236b0325e298e6852), [Data Science Fundamentals with Python and SQL](https://coursera.org/share/3b942e8a0d33854ca5a31abef0612515)
 - 🌱 **Currently Learning:** Machine Learning and Data Mining, Scikit-learn, C++, SQL/MySQL, Seaborn
-- 🚀 **Next Goal:**  Google Data Analytics Professional Certificate
+- 🚀 **Next Goal:**  DataCamp Associate Data Scientist en Python, PL-300 Data Analyst.
 
 ---
 
