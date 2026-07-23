@@ -1,5 +1,4 @@
-
-# Hello, I am Mamadou NDIAGNE! 👨‍💻
+# Hello, I am Mamadou NDIAGNE! 👨💻
 
 🎓 Student in **Data Science** | 💻 Passionate about **Technologies** and **Modeling** | 🌍 Senegalese | 🚀 Always ready to take on new challenges
 
@@ -13,26 +12,36 @@ I am an aspiring **data scientist** with a passion for statistical analysis and 
 
 A few quick facts about me:
 - 🔍 **Specialty:** Data Science
-- 💼 **Programming Languages:** Python, C
-- 🛠️ **Favorite Tools:** Jupyter Notebook, SQL, LaTeX, Google Colab
+- 💼 **Programming Language:** Python
+- 🛠️ **Favorite Tools:** VsCode, SQL, LaTeX, Google colab
 - 🏅 **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/3ece2575483c15c236b0325e298e6852), [Data Science Fundamentals with Python and SQL](https://coursera.org/share/3b942e8a0d33854ca5a31abef0612515)
-- 🌱 **Currently Learning:** Machine Learning and Data Mining, Scikit-learn, C++, SQL/MySQL, Seaborn
-- 🚀 **Next Goal:**  DataCamp Associate Data Scientist en Python, PL-300 Data Analyst.
+- 🌱 **Currently Learning:** DeepLearning, MLOps (Docker, APIs)
+- 🚀 **Next Goal:** DataCamp Associate Data Scientist en Python, PL-300 Data Analyst.
 
 ---
 
 ## Skills
 
-- **Programming Languages:** Python, C, C++
+- **Programming Languages:** Python, C, C++, Java
 - **Modeling:** UML (Use Case, Sequence and Class Diagram)
-- **Data Analysis & Visualization:** Python, Matplotlib, Pandas, NumPy
+- **Data Analysis & Visualization:** Python, Matplotlib, Pandas, NumPy, Streamlit
 - **Database Management:** SQL, MySQL
 - **Machine Learning:** Python, Scikit-learn
-- **Tools:** Jupyter Notebook, Google Colab, Visual Studio Code, Overleaf, Codeblocks
+- **Tools & Deployment:** Jupyter Notebook, Google Colab, Visual Studio Code, Docker, FastApi
 
 ---
 
 ## 💼 Projects 
+
+### 🔗 [Credit Risk Scoring](https://github.com/momodiagne/credit-risk-scoring)
+
+**Description**:
+This project implements a credit risk scoring model to evaluate the probability of default. It includes data preprocessing, an API for real-time predictions, and an interactive dashboard for visualizing risk factors and model results.
+
+- **Languages**: Python
+- **Tools & Libraries**: Docker, Streamlit, Scikit-Learn, Pandas, FastApi
+- **Approach**: Containerized end-to-end machine learning pipeline with an integrated dashboard.
+
 ### 🔗 [Real Estate Price Prediction](https://github.com/momodiagne/Machine-Learning/blob/main/Pr%C3%A9dictions_des_prix_de_l_immobilier.ipynb)
 
 **Description**:
@@ -56,13 +65,6 @@ This project automates the real-time loan approval process by predicting whether
 - Implementation of K-Nearest Neighbors (KNN) algorithm
 - Model evaluation using accuracy metrics
 - Visualization of predictions and decision boundaries
-
-### 🔗 [Optimal Route Management in a Supply Chain](https://github.com/momodiagne/Supply-Chain-Problem)
-A project where I designed an optimization model to efficiently manage a supply chain by creating high-performance search algorithms.
-
-- **Languages:** Python
-- **Tools:** Jupyter
-- **Description:** Analyzing the best supply routes with search functions and optimizing efficiency.
 
 ###  Game Theory and Applications
 Exploration of **game theory**, focusing on Nash equilibrium, strategic dilemmas, and modeling through Python algorithms.
@@ -89,7 +91,7 @@ I am always open to discussions, collaborations, and new opportunities. Feel fre
 
 - 📧 [Email](mailto:mamadou.ndiagne@etu.univ-amu.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamadou-ndiagne)
-- 🐱‍💻 [GitHub](https://github.com/momodiagne)
+- 🐱💻 [GitHub](https://github.com/momodiagne)
 
 ---
 
@@ -106,5 +108,4 @@ I am always open to discussions, collaborations, and new opportunities. Feel fre
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
