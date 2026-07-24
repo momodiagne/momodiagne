@@ -27,7 +27,7 @@ A few quick facts about me:
 - **Data Analysis & Visualization:** Python, Matplotlib, Pandas, NumPy, Streamlit
 - **Database Management:** SQL, MySQL
 - **Machine Learning:** Python, Scikit-learn
-- **Tools & Deployment:** Jupyter Notebook, Google Colab, Visual Studio Code, Docker, FastApi
+- **Tools & Deployment:** Jupyter Notebook, Google Colab, Visual Studio Code, Docker, Api, FastApi
 
 ---
 
