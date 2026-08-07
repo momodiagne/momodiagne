@@ -16,7 +16,7 @@ A few quick facts about me:
 - 🛠️ **Favorite Tools:** VsCode, SQL, LaTeX, Google colab
 - 🏅 **Certifications:** [Google Data Analytics Professional Certificate](https://coursera.org/share/3ece2575483c15c236b0325e298e6852), [Data Science Fundamentals with Python and SQL](https://coursera.org/share/3b942e8a0d33854ca5a31abef0612515)
 - 🌱 **Currently Learning:** DeepLearning, MLOps (Docker, APIs)
-- 🚀 **Next Goal:** DataCamp Associate Data Scientist en Python, PL-300 Data Analyst.
+- 🚀 **Next Goal:** DataCamp Associate Data Scientist en Python, PL-300 Data Analyst (Power BI).
 
 ---
 
@@ -24,7 +24,7 @@ A few quick facts about me:
 
 - **Programming Languages:** Python, C, C++, Java
 - **Modeling:** UML (Use Case, Sequence and Class Diagram)
-- **Data Analysis & Visualization:** Python, Matplotlib, Pandas, NumPy, Streamlit
+- **Data Analysis & Visualization:** Python, Matplotlib, Pandas, NumPy, Streamlit, Power BI, Tableau
 - **Database Management:** SQL, MySQL
 - **Machine Learning:** Python, Scikit-learn
 - **Tools & Deployment:** Jupyter Notebook, Google Colab, Visual Studio Code, Docker, Api, FastApi
